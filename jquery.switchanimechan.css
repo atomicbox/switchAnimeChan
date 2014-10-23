@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+#switchanimechan {
+	background: url(img/ajax-loader.gif) no-repeat 50% 40%;
+}
+
+#switchanimechan #swchanViewArea {
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;	
+}
+
+#swchanViewArea .sl img, x:-moz-any-link {
+	background: url(img/clear.png);
+}
